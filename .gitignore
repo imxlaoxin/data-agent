@@ -5,3 +5,4 @@ temp_debug/
 logs/
 data-agent-fronted/node_modules/
 .git-backup
+CLAUDE.md
